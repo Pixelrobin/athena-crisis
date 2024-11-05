@@ -20,3 +20,4 @@ packages:
   - 'twitch'
   - 'ui'
   - 'zeus'
+  - 'atlas'
