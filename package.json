@@ -101,6 +101,7 @@
     "neverBuiltDependencies": [
       "canvas"
     ],
+    "allowNonAppliedPatches": true,
     "updateConfig": {
       "ignoreDependencies": [
         "eslint"
