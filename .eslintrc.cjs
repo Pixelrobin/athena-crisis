@@ -63,6 +63,12 @@ module.exports = {
         'workspaces/no-relative-imports': 0,
       },
     },
+    {
+      files: ['atlas/**/*.tsx'],
+      rules: {
+        'react/no-unknown-property': 'off',
+      },
+    },
   ],
   plugins: ['@deities', 'workspaces'],
   rules: {
